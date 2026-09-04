@@ -7,7 +7,7 @@ about:
   head: 9be7f00
   archived: false
   latestVersion: v0.3.3
-  collectedAt: 2026-09-04T19:53:41Z
+  collectedAt: 2026-09-04T20:46:27Z
 timeline:
   created: 2025-03-30
   lastCommit: 2026-02-20
@@ -81,5 +81,28 @@ total:
   openIssue: 4
   commit: 85
 ---
+path: /home/runner/.x-repo/github.com/ashish0kumar/stormy
+collectedAt: 2026-09-04T20:46:28Z
+loc:
+  Go:
+    code: 1183
+    comments: 87
+    blanks: 145
+    files: 5
+  Nix:
+    code: 44
+    comments: 0
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 113
+    blanks: 53
+    files: 1
+total:
+  code: 1258
+  comments: 209
+  blanks: 213
+  files: 7
 ---
 
