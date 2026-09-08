@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 555,
       "digest": "sha256:bf6ee043cb558c2235865a9db337d724dc0bf18b1c558801a56eecf63c5808a3",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2025-07-27T13:28:51Z",
       "updated_at": "2025-07-27T13:28:51Z",
       "browser_download_url": "https://github.com/ashish0kumar/stormy/releases/download/v0.3.3/checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2507433,
       "digest": "sha256:b20f7317e62493be4e69fe08b461c72f91cffa60168f8f6cf002d73b2105d5fa",
-      "download_count": 340,
+      "download_count": 341,
       "created_at": "2025-07-27T13:28:51Z",
       "updated_at": "2025-07-27T13:28:51Z",
       "browser_download_url": "https://github.com/ashish0kumar/stormy/releases/download/v0.3.3/stormy_linux_x86_64.tar.gz"
