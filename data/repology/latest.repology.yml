@@ -1,0 +1,38 @@
+- repo: aur
+  srcname: stormy
+  binname: stormy
+  visiblename: stormy
+  version: 0.3.2
+  origversion: 0.3.2-1
+  status: outdated
+  summary: minimal, customizable, and neofetch-like weather CLI
+  maintainers:
+    - shm@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: misc/stormy
+  binname: stormy
+  visiblename: misc/stormy
+  version: 0.3.3
+  origversion: 0.3.3_17
+  status: newest
+  summary: Minimal, customizable, and neofetch-like weather CLI
+  maintainers:
+    - nxjoseph@freebsd.org
+  categories:
+    - misc
+- repo: homebrew
+  srcname: stormy
+  visiblename: stormy
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Minimal, customizable and neofetch-like weather CLI based on rainy
+- repo: homebrew
+  srcname: stormy
+  visiblename: stormy
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Minimal, customizable and neofetch-like weather CLI based on rainy
