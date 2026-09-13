@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2396259,
       "digest": "sha256:591522100a5d96858e29fe96c5fa9bfec3808c1e9441d1d19a2f3e51d13c0e92",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2025-07-27T13:28:50Z",
       "updated_at": "2025-07-27T13:28:50Z",
       "browser_download_url": "https://github.com/ashish0kumar/stormy/releases/download/v0.3.3/stormy_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2507433,
       "digest": "sha256:b20f7317e62493be4e69fe08b461c72f91cffa60168f8f6cf002d73b2105d5fa",
-      "download_count": 352,
+      "download_count": 354,
       "created_at": "2025-07-27T13:28:51Z",
       "updated_at": "2025-07-27T13:28:51Z",
       "browser_download_url": "https://github.com/ashish0kumar/stormy/releases/download/v0.3.3/stormy_linux_x86_64.tar.gz"
