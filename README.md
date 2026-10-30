@@ -46,12 +46,12 @@ Total: **1,227** lines of code across **7** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-07-31 | 0 | 0 | 1 | 0 | 0 | 1 |
-| last180d | 2026-05-02 | 0 | 0 | 1 | 0 | 0 | 1 |
-| 360d | 2025-11-03 | 0 | 0 | 1 | 0 | 1 | 4 |
-| last720d | 2024-11-08 | 8 | 17 | 2 | 10 | 4 | 86 |
+| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-01 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last180d | 2026-05-03 | 0 | 0 | 1 | 0 | 0 | 1 |
+| 360d | 2025-11-04 | 0 | 0 | 1 | 0 | 1 | 4 |
+| last720d | 2024-11-09 | 8 | 17 | 2 | 10 | 4 | 86 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for stormy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:38:51Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:48:57Z._
