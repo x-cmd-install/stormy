@@ -15,7 +15,7 @@
   binname: stormy
   visiblename: misc/stormy
   version: 0.3.3
-  origversion: 0.3.3_19
+  origversion: 0.3.3_20
   status: newest
   summary: Minimal, customizable, and neofetch-like weather CLI
   maintainers:
